@@ -1,4 +1,4 @@
-# 🚀 Agentic Legal Intelligence System
+# 🚀 LexAI
 
 Demystifying legal documents using Generative AI—automatically converts complex legal documents into simple, understandable language, reduces review costs, and provides cryptographically verifiable interpretations in 30 seconds.
 
