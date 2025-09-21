@@ -2,6 +2,7 @@
 
 Demystifying legal documents using Generative AI—automatically converts complex legal documents into simple, understandable language, reduces review costs, and provides cryptographically verifiable interpretations in 30 seconds.
 
+Demo: https://lexai.atrv.com
 ---
 
 ## 📋 Table of Contents
@@ -105,7 +106,5 @@ Hackathon prototype; license details pending team decision. For enterprise usage
 - **Member:** Arya Thool
 - **Member:** Ayush Jaiswal
 - **Member:** Khushi Shahu
-
-Contact for demo, enterprise partnerships, or technical details.
 
 ---
